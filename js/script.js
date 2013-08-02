@@ -9,14 +9,7 @@ var t = setTimeout(function(){
 // array of photos to display in portfolio
 // landscape orientation works best due to cover/stretch presentation of images
 var photos = [
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/4t5cS8G8De/2012TourDeFrance-17.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/AoISk8GvOg/2012TourDeFrance-23.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/s-3B7iQAk2/2012TourDeFrance-45.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/ie8-i-DZwa/2012TourDeFrance-50.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/_qO_-9stDq/2012TourDeFrance-53.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/AwvxvdjrAl/2012TourDeFrance-64.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/jdBLaUWV0l/2012TourDeFrance-59.jpg',
-	'https://dl.dropbox.com/sh/qtg3abjy10eb80i/0Hvx75q-ih/2012TourDeFrance-58.jpg'
+	'http://farm8.staticflickr.com/7391/8882400348_a3ea5a5eb8_k_d.jpg' 
 ]
 
 // portfolio presentation and slideshow controller
