@@ -10,6 +10,15 @@ var t = setTimeout(function(){
 // landscape orientation works best due to cover/stretch presentation of images
 var photos = [
 	'http://farm8.staticflickr.com/7391/8882400348_a3ea5a5eb8_k_d.jpg' 
+	'http://farm8.staticflickr.com/7023/6759616953_c681303f57_o_d.jpg'
+	'http://farm9.staticflickr.com/8474/8416798197_571ab1d6e5_k_d.jpg'
+	'http://farm4.staticflickr.com/3722/9159746784_e8756b56b0_k_d.jpg'
+	'http://farm1.staticflickr.com/37/97897087_9789ac2cd9_o_d.jpg'
+	'http://farm4.staticflickr.com/3259/2823047622_f7275cd77f_o_d.jpg'
+	'http://farm4.staticflickr.com/3130/3169660819_844a476472_o_d.jpg'
+	'http://farm3.staticflickr.com/2583/4031990333_90666c9bb6_o_d.jpg'
+	'http://farm2.staticflickr.com/1264/777359539_62ce237b63_o_d.jpg'
+	'http://farm5.staticflickr.com/4029/4666380798_ff9a5387ac_o_d.jpg'
 ]
 
 // portfolio presentation and slideshow controller
