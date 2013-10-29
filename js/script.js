@@ -18,6 +18,7 @@ var photos = [
 	'http://farm2.staticflickr.com/1264/777359539_62ce237b63_o_d.jpg',
 	'http://farm5.staticflickr.com/4029/4666380798_ff9a5387ac_o_d.jpg',
 	'http://farm3.staticflickr.com/2814/9728438241_91200209fc_k_d.jpg',
+	'http://farm3.staticflickr.com/2814/9728438241_91200209fc_k_d.jpg',
 	]
 	//'http://farm4.staticflickr.com/3130/3169660819_844a476472_o_d.jpg',
 	//'http://farm8.staticflickr.com/7023/6759616953_c681303f57_o_d.jpg',
